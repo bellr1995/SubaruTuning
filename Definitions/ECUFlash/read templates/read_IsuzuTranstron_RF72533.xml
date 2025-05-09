@@ -1,0 +1,13 @@
+<rom>
+	<romid>
+		<xmlid>read_IsuzuTranstron_RF72533</xmlid>
+		<make>Isuzu</make>
+		<market>ALL</market>
+		<model>RZ4TE</model>
+		<submodel>Transtron</submodel>
+		<year>2019+</year>
+		<flashmethod>IsuzuTranstron</flashmethod>			
+		<memmodel>RF72533</memmodel>
+	        <filesize>2080kb</filesize>
+	</romid>
+</rom>	
