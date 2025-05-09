@@ -1,12 +1,13 @@
 <rom>
-	<romid>
-		<xmlid>read_evo9</xmlid>
-		<make>Mitsubishi</make>
-		<market>ALL</market>
-		<model></model>
-		<submodel>EVO9 MH8306F|Eclipse AT MH8306F|Lancer AT MH8306F</submodel>
-		<year>2006|2004-2007|2003</year>
-		<flashmethod>mitsukernelocp</flashmethod>			
-		<memmodel>SH7055</memmodel>
-	</romid>
-</rom>	
+<romid>
+<xmlid>read_IsuzuTranstron_RF72533</xmlid>
+<make>Isuzu</make>
+<market>ALL</market>
+<model/>
+<submodel>Transtron</submodel>
+<year>2019+</year>
+<flashmethod>IsuzuTranstron</flashmethod>
+<memmodel>RF72533R</memmodel>
+<filesize>2080kb</filesize>
+</romid>
+</rom>
