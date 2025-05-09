@@ -1,12 +1,12 @@
 <rom>
 	<romid>
-		<xmlid>read_subaruhitachish72543</xmlid>
-		<make>Subaru</make>
+		<xmlid>read_IsuzuTranstron_RF72533</xmlid>
+		<make>Isuzu</make>
 		<market>ALL</market>
 		<model></model>
-		<submodel>hitachi</submodel>
-		<year>2013+</year>
-		<flashmethod>subaruhitachi</flashmethod>			
-		<memmodel>SH72543R</memmodel>
+		<submodel>Transtron</submodel>
+		<year>2019+</year>
+		<flashmethod>IsuzuTranstron</flashmethod>			
+		<memmodel>RF72533R</memmodel>
 	</romid>
 </rom>	
